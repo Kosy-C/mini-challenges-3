@@ -24,4 +24,6 @@ function binaryReversal(value) {
     return decimalNum;
 };
 
+
+
 module.exports = binaryReversal;
